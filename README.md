@@ -4,4 +4,4 @@ asks for symptoms and tries to decide the disease the patient is possibly suffer
 To run type "python3 predict.py" from cloned directory and answer the questions.
 
 example:
-https://github.com/vandanrohatgi/doctor-code/blob/master/example.png
+<img src="https://github.com/vandanrohatgi/doctor-code/blob/master/example.png">
